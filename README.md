@@ -25,7 +25,7 @@ Perfect for **accessibility**, **automation**, or when your mouse decides to sto
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/keyboard-mouse-controller.git
-   cd keyboard-mouse-controller
+   cd Move-Mouse-By-Key
    pip install pynput pyautogui
    python Mouse_Move_By_Key.py
 
